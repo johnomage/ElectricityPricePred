@@ -43,7 +43,7 @@ The notebook covers the following main topics:
 
 3. **Model Selection and Training**: Trying out different machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting Regression for predicting electricity prices.
 
-4. **Model Evaluation**: Evaluating the performance of each model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R^2) score.
+4. **Model Evaluation**: Evaluating the performance of each model using Root Mean Squared Error (RMSE).
 
 5. **Hyperparameter Tuning**: Fine-tuning the hyperparameters of the best-performing model to optimize its performance further.
 
@@ -64,3 +64,6 @@ To use the notebook, follow these steps:
 ## License
 
 The dataset and code in this repository are provided under the MIT License. Feel free to use and modify them for your own projects. If you find this work helpful, consider giving it a star on GitHub!
+
+
+credit: [electricity price forecasting](https://www.kaggle.com/code/dimitriosroussis/electricity-price-forecasting-with-dnns-eda)
