@@ -1,0 +1,9 @@
+python==3.11
+pandas
+numPy
+matplotlib
+sklearn
+torch==2.3.0
+gdown
+seaborn
+xgboost
